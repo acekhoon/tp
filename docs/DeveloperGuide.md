@@ -837,7 +837,6 @@ Use case ends.
 ### Glossary
 
 * **Mainstream OS**: Windows, Linux, Unix, MacOS
-* **Private contact detail**: A contact detail that is not meant to be shared with others
 * **Command**: The first word in the user input
 * **GUI**: Graphical user interface
 * **JSON**: JavaScript Object Notation
